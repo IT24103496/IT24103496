@@ -47,14 +47,14 @@ var dasun = new Direction(
 
 <img src="./assets/live-metrics.svg" width="100%" alt="Live public GitHub profile metrics" />
 
-| Signal | Public snapshot |
+| Signal | Current public data |
 |---|---|
-| Public repositories visible | **2** |
+| Public repositories displayed | **2** |
 | Forked repositories displayed | **2** |
-| Followers visible | **1** |
-| Primary public repository language | **Java** |
+| Followers | **1** |
+| Primary repository languages | **Java** |
 
-<sub>Initial snapshot reflects public GitHub profile information visible on May 27, 2026. After publishing, <code>profile-bot.yml</code> automatically refreshes these blocks from public GitHub API data.</sub>
+<sub>Generated from public GitHub API data by <code>profile-bot.yml</code>; commits occur only when displayed data changes.</sub>
 
 <!-- LIVE_OVERVIEW_END -->
 
@@ -89,15 +89,19 @@ var dasun = new Direction(
 
 | Repository | Public signal |
 |---|---|
-| **[builtsmart](https://github.com/IT24103496/builtsmart)**<br/><sub>A comprehensive web-based Construction Management System developed for BuildSmart Lanka Pvt Ltd using Spring Boot and modern web technologies.</sub> | ![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white)<br/><sub>Forked public repository</sub> |
-| **[Vehical-Rental-Service](https://github.com/IT24103496/Vehical-Rental-Service)**<br/><sub>Vehicle rental service repository.</sub> | ![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white)<br/><sub>Forked public repository</sub> |
+| **[builtsmart](https://github.com/IT24103496/builtsmart)**<br/><sub>A comprehensive web-based Construction Management System developed for BuildSmart Lanka Pvt Ltd using Spring Boot and…</sub> | ![Code](https://img.shields.io/badge/Code-475569?style=flat-square)<br/><sub>Forked public repository · updated May 27, 2026</sub> |
+| **[Vehical-Rental-Service](https://github.com/IT24103496/Vehical-Rental-Service)**<br/><sub>Public repository.</sub> | ![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white)<br/><sub>Forked public repository · updated May 21, 2025</sub> |
 
 <!-- PUBLIC_REPOS_END -->
 
 <!-- ACTIVITY_FEED_START -->
 ## Recent Public Activity
 
-- Recent supported public activity will appear after the first **Profile Bot** workflow run.
+- **May 27, 2026** — pushed 0 commits to [IT24103496/IT24103496](https://github.com/IT24103496/IT24103496)
+- **May 27, 2026** — pushed 0 commits to [IT24103496/IT24103496](https://github.com/IT24103496/IT24103496)
+- **May 27, 2026** — created content in [IT24103496/IT24103496](https://github.com/IT24103496/IT24103496)
+- **May 27, 2026** — starred [Sachith-02/LibraCore](https://github.com/Sachith-02/LibraCore)
+- **May 27, 2026** — starred [Sachith-02/Sustain-Insight---back-end](https://github.com/Sachith-02/Sustain-Insight---back-end)
 
 <!-- ACTIVITY_FEED_END -->
 
