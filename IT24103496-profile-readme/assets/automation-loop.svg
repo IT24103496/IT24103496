@@ -1,0 +1,39 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#040B15"/><stop offset="0.52" stop-color="#071C28"/><stop offset="1" stop-color="#111534"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" x2="1"><stop stop-color="#18E0D0"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
+    <linearGradient id="safe" x1="0" x2="1"><stop stop-color="#18E0D0"/><stop offset="1" stop-color="#A3E635"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="soft"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#18E0D0" flood-opacity=".15"/></filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#102A38" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="100%" height="100%" rx="24" fill="url(#bg)"/>
+  <rect width="100%" height="100%" rx="24" fill="url(#grid)" opacity=".48"/>
+  <circle cx="170" cy="44" r="108" fill="#18E0D0" opacity=".13" filter="url(#blur)"/>
+  <circle cx="1055" cy="288" r="150" fill="#6366F1" opacity=".14" filter="url(#blur)"/>
+  <text x="44" y="56" fill="#F8FAFC" font-family="Inter, Arial" font-size="27" font-weight="800">Automation Loop</text>
+  <text x="44" y="84" fill="#94A3B8" font-family="Inter, Arial" font-size="14">Deterministic profile updates: commits occur only when displayed content changes</text>
+  <rect x="44" y="136" width="204" height="106" rx="18" fill="#06131F" stroke="#173446"/>
+  <text x="62" y="174" fill="#18E0D0" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700">CONFIG</text>
+  <text x="62" y="208" fill="#CBD5E1" font-family="Inter, Arial" font-size="12">profile.config.json</text>
+  <path d="M254 188H272" stroke="url(#signal)" stroke-width="3"/>
+  <rect x="272" y="136" width="204" height="106" rx="18" fill="#06131F" stroke="#173446"/>
+  <text x="290" y="174" fill="#18E0D0" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700">BOT</text>
+  <text x="290" y="208" fill="#CBD5E1" font-family="Inter, Arial" font-size="12">GitHub REST API</text>
+  <path d="M482 188H500" stroke="url(#signal)" stroke-width="3"/>
+  <rect x="500" y="136" width="204" height="106" rx="18" fill="#06131F" stroke="#173446"/>
+  <text x="518" y="174" fill="#18E0D0" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700">SVG</text>
+  <text x="518" y="208" fill="#CBD5E1" font-family="Inter, Arial" font-size="12">Local dashboard</text>
+  <path d="M710 188H728" stroke="url(#signal)" stroke-width="3"/>
+  <rect x="728" y="136" width="204" height="106" rx="18" fill="#06131F" stroke="#173446"/>
+  <text x="746" y="174" fill="#18E0D0" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700">README</text>
+  <text x="746" y="208" fill="#CBD5E1" font-family="Inter, Arial" font-size="12">Protected blocks</text>
+  <path d="M938 188H956" stroke="url(#signal)" stroke-width="3"/>
+  <rect x="956" y="136" width="204" height="106" rx="18" fill="#06131F" stroke="#173446"/>
+  <text x="974" y="174" fill="#18E0D0" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700">VERIFY</text>
+  <text x="974" y="208" fill="#CBD5E1" font-family="Inter, Arial" font-size="12">Tests + CodeQL</text>
+  <path d="M1084 258C1084 291 72 291 72 258" fill="none" stroke="#243A4B" stroke-width="2" stroke-dasharray="7 7"/>
+  <text x="465" y="288" fill="#64748B" font-family="JetBrains Mono, monospace" font-size="12">SCHEDULED + MANUAL REFRESH</text>
+</svg>

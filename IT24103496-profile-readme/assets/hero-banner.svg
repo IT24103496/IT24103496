@@ -1,0 +1,44 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#040B15"/><stop offset="0.52" stop-color="#071C28"/><stop offset="1" stop-color="#111534"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" x2="1"><stop stop-color="#18E0D0"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
+    <linearGradient id="safe" x1="0" x2="1"><stop stop-color="#18E0D0"/><stop offset="1" stop-color="#A3E635"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="soft"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#18E0D0" flood-opacity=".15"/></filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#102A38" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="100%" height="100%" rx="24" fill="url(#bg)"/>
+  <rect width="100%" height="100%" rx="24" fill="url(#grid)" opacity=".48"/>
+  <circle cx="170" cy="44" r="108" fill="#18E0D0" opacity=".13" filter="url(#blur)"/>
+  <circle cx="1055" cy="288" r="150" fill="#6366F1" opacity=".14" filter="url(#blur)"/>
+
+  <text x="58" y="67" fill="#18E0D0" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="2">NETWORKS / SECURITY / SOFTWARE</text>
+  <text x="58" y="132" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial" font-size="54" font-weight="800">Dasun Welianga</text>
+  <text x="60" y="173" fill="#DCE7F6" font-family="Inter, Segoe UI, Arial" font-size="19" font-weight="600">Computer Systems &amp; Network Engineering</text>
+  <text x="60" y="204" fill="#DCE7F6" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="600">Network Security • Software Development</text>
+  <text x="60" y="238" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">Designing secure, practical systems with Java and modern backend engineering.</text>
+  <rect x="58" y="274" width="194" height="38" rx="19" fill="#06242A" stroke="#18E0D0" stroke-opacity=".5"/>
+  <text x="78" y="298" fill="#C9FFFB" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700">JAVA · SPRING</text>
+  <rect x="264" y="274" width="212" height="38" rx="19" fill="#151738" stroke="#6366F1" stroke-opacity=".62"/>
+  <text x="285" y="298" fill="#E0E7FF" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700">SECURE SYSTEMS</text>
+
+  <rect x="792" y="42" width="346" height="272" rx="24" fill="#06121D" stroke="#173446" filter="url(#soft)"/>
+  <text x="820" y="78" fill="#94A3B8" font-family="JetBrains Mono, Consolas, monospace" font-size="11">SECURE SERVICE TOPOLOGY</text>
+  <rect x="826" y="112" width="76" height="48" rx="12" fill="#07242A" stroke="#18E0D0" stroke-opacity=".72"/>
+  <text x="844" y="141" fill="#C9FFFB" font-family="JetBrains Mono, monospace" font-size="10">CLIENT</text>
+  <path d="M904 136H938" stroke="url(#signal)" stroke-width="3"/><circle cx="921" cy="136" r="4" fill="#18E0D0"/>
+  <rect x="940" y="102" width="82" height="68" rx="13" fill="#12163A" stroke="#6366F1" stroke-opacity=".75"/>
+  <path d="M981 114L1004 124V141C1004 153 994 160 981 165C968 160 958 153 958 141V124Z" fill="none" stroke="#A3E635" stroke-width="2"/>
+  <text x="957" y="188" fill="#C7D2FE" font-family="JetBrains Mono, monospace" font-size="9">SECURITY</text>
+  <path d="M1024 136H1050" stroke="url(#safe)" stroke-width="3"/>
+  <rect x="1052" y="112" width="58" height="48" rx="12" fill="#08241B" stroke="#A3E635" stroke-opacity=".62"/>
+  <text x="1063" y="141" fill="#ECFCCB" font-family="JetBrains Mono, monospace" font-size="9">API</text>
+  <path d="M874 218H1080" stroke="#102B3D" stroke-width="2" stroke-dasharray="5 7"/>
+  <circle cx="875" cy="218" r="7" fill="#18E0D0"/><circle cx="978" cy="218" r="7" fill="#6366F1"/><circle cx="1080" cy="218" r="7" fill="#A3E635"/>
+  <text x="826" y="259" fill="#94A3B8" font-family="JetBrains Mono, Consolas, monospace" font-size="10">VALIDATE  →  ROUTE  →  SERVE</text>
+  <rect x="826" y="277" width="284" height="9" rx="5" fill="#0D2632"/>
+  <rect x="826" y="277" width="238" height="9" rx="5" fill="url(#safe)" opacity=".84"/>
+
+</svg>

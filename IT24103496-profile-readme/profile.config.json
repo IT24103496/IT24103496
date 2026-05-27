@@ -1,0 +1,69 @@
+{
+  "username": "IT24103496",
+  "display_name": "Dasun Welianga",
+  "location": "Sri Lanka",
+  "headline": "Computer Systems & Network Engineering",
+  "tagline": "Designing secure, practical systems with Java and modern backend engineering.",
+  "theme": "Signal Shield",
+  "accent": "18E0D0",
+  "accent_secondary": "6366F1",
+  "accent_green": "A3E635",
+  "focus": [
+    "Computer systems and network engineering",
+    "Network security and resilient system design",
+    "Java and Spring Boot application development",
+    "Automation-driven project presentation"
+  ],
+  "spotlight_projects": [
+    {
+      "name": "builtsmart",
+      "status": "Public fork • Java / Spring Boot",
+      "description": "A web-based construction management system for BuildSmart Lanka Pvt Ltd, described publicly as using Spring Boot and modern web technologies.",
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "Web Application"
+      ],
+      "url": "https://github.com/IT24103496/builtsmart"
+    },
+    {
+      "name": "Vehical-Rental-Service",
+      "status": "Public fork • Java",
+      "description": "A vehicle rental service repository visible in the public GitHub portfolio.",
+      "stack": [
+        "Java",
+        "Application Design"
+      ],
+      "url": "https://github.com/IT24103496/Vehical-Rental-Service"
+    }
+  ],
+  "highlight_repositories": [
+    "builtsmart",
+    "Vehical-Rental-Service"
+  ],
+  "exclude_repositories": [
+    "IT24103496"
+  ],
+  "include_forks": true,
+  "max_repositories": 6,
+  "max_activity": 5,
+  "skill_groups": {
+    "Core Direction": [
+      "Computer Systems",
+      "Network Engineering",
+      "Network Security"
+    ],
+    "Public Code Signal": [
+      "Java",
+      "Spring Boot",
+      "Web Applications"
+    ],
+    "Tooling": [
+      "Git",
+      "GitHub Actions",
+      "CodeQL",
+      "Automation"
+    ]
+  },
+  "specialties": "Network Security • Software Development"
+}

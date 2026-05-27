@@ -1,0 +1,29 @@
+name: 🔐 CodeQL
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/scripts/**
+      - .github/workflows/**
+      - tests/**
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "40 2 * * 1"
+
+permissions:
+  contents: read
+  security-events: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@v4
+        with:
+          languages: python
+      - name: Analyze automation code
+        uses: github/codeql-action/analyze@v4
