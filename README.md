@@ -49,7 +49,7 @@ var dasun = new Direction(
 
 | Signal | Current public data |
 |---|---|
-| Public repositories displayed | **2** |
+| Public repositories displayed | **3** |
 | Forked repositories displayed | **2** |
 | Followers | **1** |
 | Primary repository languages | **Java** |
@@ -90,6 +90,7 @@ var dasun = new Direction(
 | Repository | Public signal |
 |---|---|
 | **[builtsmart](https://github.com/IT24103496/builtsmart)**<br/><sub>A comprehensive web-based Construction Management System developed for BuildSmart Lanka Pvt Ltd using Spring Boot and…</sub> | ![Code](https://img.shields.io/badge/Code-475569?style=flat-square)<br/><sub>Forked public repository · updated May 27, 2026</sub> |
+| **[Network-Design-for-Behpaya-Information-Technology](https://github.com/IT24103496/Network-Design-for-Behpaya-Information-Technology)**<br/><sub>Technical and Financial Proposal for Behpaya Information Technology. This proposal outlines our approach for the desi…</sub> | ![Code](https://img.shields.io/badge/Code-475569?style=flat-square)<br/><sub>Public repository · updated May 27, 2026</sub> |
 | **[Vehical-Rental-Service](https://github.com/IT24103496/Vehical-Rental-Service)**<br/><sub>Public repository.</sub> | ![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white)<br/><sub>Forked public repository · updated May 21, 2025</sub> |
 
 <!-- PUBLIC_REPOS_END -->
@@ -97,11 +98,7 @@ var dasun = new Direction(
 <!-- ACTIVITY_FEED_START -->
 ## Recent Public Activity
 
-- **May 27, 2026** — pushed 0 commits to [IT24103496/IT24103496](https://github.com/IT24103496/IT24103496)
-- **May 27, 2026** — pushed 0 commits to [IT24103496/IT24103496](https://github.com/IT24103496/IT24103496)
-- **May 27, 2026** — created content in [IT24103496/IT24103496](https://github.com/IT24103496/IT24103496)
-- **May 27, 2026** — starred [Sachith-02/LibraCore](https://github.com/Sachith-02/LibraCore)
-- **May 27, 2026** — starred [Sachith-02/Sustain-Insight---back-end](https://github.com/Sachith-02/Sustain-Insight---back-end)
+- No recent supported public GitHub activity is visible yet.
 
 <!-- ACTIVITY_FEED_END -->
 
