@@ -14,11 +14,11 @@
   <circle cx="170" cy="44" r="108" fill="#18E0D0" opacity=".13" filter="url(#blur)"/>
   <circle cx="1055" cy="288" r="150" fill="#6366F1" opacity=".14" filter="url(#blur)"/>
 
-  <text x="58" y="67" fill="#18E0D0" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="2">NETWORKS / SECURITY / SOFTWARE & SYSTEMS</text>
+  <text x="58" y="67" fill="#18E0D0" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="2">NETWORKS / SECURITY / SOFTWARE</text>
   <text x="58" y="132" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial" font-size="54" font-weight="800">Dasun Welianga</text>
   <text x="60" y="173" fill="#DCE7F6" font-family="Inter, Segoe UI, Arial" font-size="19" font-weight="600">Computer Systems &amp; Network Engineering</text>
-  <text x="60" y="204" fill="#DCE7F6" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="600">Network Security • System Development </text>
-  <text x="60" y="238" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">Designing secure, practical systems with Java , Linux based systems .</text>
+  <text x="60" y="204" fill="#DCE7F6" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="600">Network Security • Software Development</text>
+  <text x="60" y="238" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">Designing secure, practical systems with Java and modern backend engineering.</text>
   <rect x="58" y="274" width="194" height="38" rx="19" fill="#06242A" stroke="#18E0D0" stroke-opacity=".5"/>
   <text x="78" y="298" fill="#C9FFFB" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700">JAVA · SPRING</text>
   <rect x="264" y="274" width="212" height="38" rx="19" fill="#151738" stroke="#6366F1" stroke-opacity=".62"/>
