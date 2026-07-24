@@ -99,8 +99,7 @@ var dasun = new Direction(
 <!-- ACTIVITY_FEED_START -->
 ## Recent Public Activity
 
-- **Jun 23, 2026** — pushed 0 commits to [IT24103496/Hybrid-enterprise-network-lab](https://github.com/IT24103496/Hybrid-enterprise-network-lab)
-- **Jun 23, 2026** — created content in [IT24103496/Hybrid-enterprise-network-lab](https://github.com/IT24103496/Hybrid-enterprise-network-lab)
+- No recent supported public GitHub activity is visible yet.
 
 <!-- ACTIVITY_FEED_END -->
 
