@@ -49,7 +49,7 @@ var dasun = new Direction(
 
 | Signal | Current public data |
 |---|---|
-| Public repositories displayed | **4** |
+| Public repositories displayed | **5** |
 | Forked repositories displayed | **2** |
 | Followers | **1** |
 | Primary repository languages | **Java** |
@@ -93,6 +93,7 @@ var dasun = new Direction(
 | **[Network-Design-for-Behpaya-Information-Technology](https://github.com/IT24103496/Network-Design-for-Behpaya-Information-Technology)**<br/><sub>Technical and Financial Proposal for Behpaya Information Technology. This proposal outlines our approach for the desi…</sub> | ![Code](https://img.shields.io/badge/Code-475569?style=flat-square)<br/><sub>Public repository · updated Jun 10, 2026</sub> |
 | **[Vehical-Rental-Service](https://github.com/IT24103496/Vehical-Rental-Service)**<br/><sub>Public repository.</sub> | ![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white)<br/><sub>Forked public repository · updated May 21, 2025</sub> |
 | **[Hybrid-enterprise-network-lab](https://github.com/IT24103496/Hybrid-enterprise-network-lab)**<br/><sub>I spent the last few weeks building a Hybrid Enterprise Network Troubleshooting Lab entirely from free, open-source s…</sub> | ![Code](https://img.shields.io/badge/Code-475569?style=flat-square)<br/><sub>Public repository · updated Jun 23, 2026</sub> |
+| **[NETWORK-PROGRAMMING](https://github.com/IT24103496/NETWORK-PROGRAMMING)**<br/><sub>Public repository.</sub> | ![Code](https://img.shields.io/badge/Code-475569?style=flat-square)<br/><sub>Public repository · updated Oct 04, 2026</sub> |
 
 <!-- PUBLIC_REPOS_END -->
 
